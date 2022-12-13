@@ -1,0 +1,54 @@
+.gallery-container {
+  height: 60rem;
+  display: flex;
+}
+
+.img-container {
+  height: 60rem;
+  width: 25vw;
+  background-size: cover;
+  opacity: 0.8;
+  transition: all 0.2s;
+}
+.img-1 {
+  background-image: linear-gradient(90deg, #000000bb, #00000099),
+    url("../../assets/gallery_img1.jpg");
+  background-position: 45%;
+}
+.img-2 {
+  background-image: linear-gradient(90deg, #000000bb, #00000099),
+    url("../../assets/gallery_img2.jpg");
+  background-position: 50%;
+}
+.img-3 {
+  background-image: linear-gradient(90deg, #000000bb, #00000099),
+    url("../../assets/gallery_img3.jpg");
+  background-position: 30%;
+}
+.img-4 {
+  background-image: linear-gradient(90deg, #000000bb, #00000099),
+    url("../../assets/gallery_img4.jpg");
+  background-position: 30%;
+}
+
+.img-container:hover {
+  opacity: 1;
+}
+.img {
+  object-fit: contain;
+}
+
+.property-info_container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  padding: 4rem;
+}
+.count {
+  color: #a99561;
+  font-size: 3rem;
+}
+.property-name {
+  font-size: 3rem;
+  letter-spacing: -1px;
+}

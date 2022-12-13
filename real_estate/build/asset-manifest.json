@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bee92243.css",
+    "main.js": "/static/js/main.f918001e.js",
+    "static/media/gallery_img4.jpg": "/static/media/gallery_img4.73205774a629a1428966.jpg",
+    "static/media/living_room.jpg": "/static/media/living_room.2132f2634609ca3dc1b0.jpg",
+    "static/media/gallery_img3.jpg": "/static/media/gallery_img3.15f270009c38336c8696.jpg",
+    "static/media/main_img.jpg": "/static/media/main_img.1cb398d1cd76a87f3a91.jpg",
+    "static/media/gallery_img1.jpg": "/static/media/gallery_img1.9be983e10a277fdcd495.jpg",
+    "static/media/gallery_img2.jpg": "/static/media/gallery_img2.6196fb4fd1b9cdc59334.jpg",
+    "index.html": "/index.html",
+    "main.bee92243.css.map": "/static/css/main.bee92243.css.map",
+    "main.f918001e.js.map": "/static/js/main.f918001e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bee92243.css",
+    "static/js/main.f918001e.js"
+  ]
+}
